@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'am Bintari! 👋 
-I like solving problems and finding solutions to those problems.
+I love solving problems and finding solutions to those problems.
 I'm currently learning to develop skills to become a data analyst/data scientist📈
 
 
