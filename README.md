@@ -27,4 +27,3 @@ I'm currently learning to develop skills to become a data analyst/data scientist
 
 ### Get in touch 😄
 - linkedin: [linkedin.com/in/bintarisiswi](https://www.linkedin.com/in/bintarisiswi)
-- twitter: [@bintarisiswi](https://www.instagram.com/bintarisiswi)
